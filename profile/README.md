@@ -1,4 +1,4 @@
-![GitHub Banner](GITHUB-BANNER.png)
+![GitHub Banner](../GITHUB-BANNER.png)
 
 # Helious Minecraft Server
 
