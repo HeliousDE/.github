@@ -1,4 +1,4 @@
-![GitHub Banner](../GITHUB-BANNER.png)
+![GitHub Banner](GITHUB-BANNER.png)
 
 # Helious Minecraft Server
 
@@ -20,7 +20,6 @@ To join the server, simply add the server address (play.helious.de) to your Mine
 ## Server Rules
 
 1. Be respectful to other players.
-2. No griefing or stealing.
 3. No cheating or exploiting bugs.
 4. Have fun!
 
